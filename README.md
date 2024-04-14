@@ -61,6 +61,8 @@ FINAL Encoded Command
 
 6. The encoded PowerShell command will be displayed, and if chosen, saved to a file named `encoded.ps1`.
 
+7. Run in the PS console like that: `powershell.exe -NoP -Ep Bypass -W h -File .\encoded.ps1`
+
 ## Requirements
 
 - Python 3.x
