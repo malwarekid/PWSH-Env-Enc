@@ -18,12 +18,11 @@ Inspired by John Hammonds methodology in this [video](https://www.youtube.com/wa
 
 1. Clone the Repository:
 
-    `git clone https://github.com/malwarekid/PWSH-Env-Enc.git &&
-    cd PWSH-Env-Enc`
+```git clone https://github.com/malwarekid/PWSH-Env-Enc.git && cd PWSH-Env-Enc```
 
 2. Run the Script:
 
-    `python3 PWSH-Env-Enc`
+```python3 PWSH-Env-Enc.py```
 
 ```
     ____ _       _______ __  __      ______                 ______          
