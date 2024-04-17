@@ -61,6 +61,8 @@ FINAL Encoded Command
 
 6. The encoded PowerShell command will be displayed, and if chosen, saved to a file named `encoded.ps1`.
 
+![Screenshot from 2024-04-16 20-32-55](https://github.com/malwarekid/PWSH-Env-Enc/assets/91931069/e5b21069-8dc8-401d-894b-778f9f45eb52)
+
 7. Run in the PS console like that: `powershell.exe -NoP -Ep Bypass -W h -File .\encoded.ps1`
 
 ## Requirements
